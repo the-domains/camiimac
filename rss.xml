@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[camiimac]]></title>
-        <description><![CDATA[camiimac]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[graphic designer, design strategist, speaker, good juju spreader, author, listener]]></title>
+        <description><![CDATA[graphic designer, design strategist, speaker, good juju spreader, author, listener]]></description>
+        <link>https://thegrid.ai/camiimac/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 01:30:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 26 Jun 2016 20:14:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/camiimac/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Let's assume you didn't get here by accident. Welcome!What can I do for you?</p>]]></description>
-            <link>undefinedaf6b874c-af0f-4bb1-9f32-4be41180b676/index.html</link>
+            <title><![CDATA[If you need a seasoned graphic designer, a design strategist, or an motivated speaker, you've come to the right spot. ]]></title>
+            <description><![CDATA[<article><h1>If you need a seasoned graphic designer, a design strategist, or an motivated speaker, you've come to the right spot. </h1><p>Kick back and look around. If you don't see what you need, just click on the "contact" button up there on top, and let me know what you do need. I'll try and help you out. </p></article>]]></description>
+            <link>https://thegrid.ai/camiimac/af6b874c-af0f-4bb1-9f32-4be41180b676/index.html</link>
             <guid isPermaLink="false">af6b874c-af0f-4bb1-9f32-4be41180b676</guid>
-            <pubDate>Tue, 01 Mar 2016 01:30:32 GMT</pubDate>
+            <pubDate>Sun, 26 Jun 2016 20:14:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
